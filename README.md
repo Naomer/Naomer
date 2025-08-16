@@ -22,7 +22,7 @@
 ### 🤝 Connect With Me
 <p align="left">
   <a href="https://twitter.com/nahtheol" target="_blank">
-    <img src="https://skillicons.dev/icons?i=twitter" width="40" />
+    <img src="https://skillicons.dev/icons?i=x" width="40" />
   </a>
   <a href="https://linkedin.com/in/olliemer" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" width="40" />
