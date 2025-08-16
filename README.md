@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Naomer</h1>
+<h1 align="center">Hi 👋, I'm Naomer (<a href="https://github.com/nahtheol" target="_blank">nahtheol</a>)</h1>
 <h3 align="center">🚀 Passionate Software Engineer from Ethiopia</h3>
 
 ---
@@ -39,5 +39,5 @@
 
 ### 🛠️ Languages & Tools
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,tensorflow,pytorch,python,java,kotlin,swift,react,js,ts,html,css,nodejs,php,laravel,mysql,mongodb,postgresql,django,flask,aws,azure,docker,git,linux,figma,postman,unity,blender" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,tensorflow,pytorch,python,java,kotlin,swift,react,js,ts,html,css,nodejs,php,laravel,mysql,mongodb,postgresql,django,flask,aws,azure,docker,git,linux,figma,postman,unity" />
 </p>
