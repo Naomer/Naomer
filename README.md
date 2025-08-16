@@ -43,3 +43,21 @@
 <p align="left">
   <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,tensorflow,pytorch,python,java,kotlin,swift,react,js,ts,html,css,nodejs,php,laravel,mysql,mongodb,postgresql,django,flask,aws,azure,docker,git,linux,figma,postman,unity" />
 </p>
+<h1 align="center">Hi 👋, I'm <a href="https://github.com/naotheol">Naomer</a></h1>
+<h3 align="center">A passionate Software Engineer from Ethiopia 🚀</h3>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/l0HlNQ03J5JxX6lva/giphy.gif" width="300"/>
+</p>
+
+<p align="center">💻 Entering the Code Matrix... [AI | Dev | Mobile | Tech]</p>
+
+<p align="center">
+  <a href="https://x.com/nahtheol" target="_blank"><img src="./assets/x-logo.png" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/olliemer" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" height="30" width="40" /></a>
+  <a href="https://instagram.com/nahtheol" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" height="30" width="40" /></a>
+  <a href="https://dev.to/naomer" target="_blank"><img src="https://skillicons.dev/icons?i=devto" height="30" width="40" /></a>
+  <a href="https://leetcode.com/nahtheol" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" height="28"/></a>
+</p>
+
+<hr>
