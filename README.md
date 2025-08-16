@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Naomer 
 <h3 align="center">🚀 Passionate Software Engineer from Ethiopia</h3>
   
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=naotheol" alt="naotheol" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/nahtheol" target="blank"><img src="https://img.shields.io/twitter/follow/nahtheol?logo=twitter&style=for-the-badge" alt="nahtheol" /></a> </p>
 ---
@@ -22,8 +21,8 @@
 ### 🤝 Connect With Me
 <p align="left">
   <a href="https://x.com/nahtheol" target="_blank">
-    <img src="https://skillicons.dev/icons?i=x" width="40" />
-  </a>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/9b/X_logo_2023.svg" width="40" />
+</a>
   <a href="https://linkedin.com/in/olliemer" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" width="40" />
   </a>
