@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Naomer 
 <h3 align="center">🚀 Passionate Software Engineer from Ethiopia</h3>
   
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=naotheol&label=Profile%20views&color=0e75b6&style=flat" alt="naotheol" /> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=naotheol" alt="naotheol" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/nahtheol" target="blank"><img src="https://img.shields.io/twitter/follow/nahtheol?logo=twitter&style=for-the-badge" alt="nahtheol" /></a> </p>
 ---
 
 ### 🌟 About Me
@@ -31,7 +33,9 @@
   <a href="https://dev.to/naomer" target="_blank">
     <img src="https://skillicons.dev/icons?i=devto" width="40" />
   </a>
-  <a href="https://www.leetcode.com/nahtheol" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="nahtheol" height="30" width="40" /></a>
+   <a href="https://leetcode.com/nahtheol" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" height="28"/>
+  </a>
 </p>
 
 ---
