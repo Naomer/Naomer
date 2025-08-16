@@ -139,3 +139,103 @@
 [![](https://visitcount.itsvg.in/api?id=Naomer&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
+
+<h1 align="center">Hi 👋, I'm Naomer</h1>
+<h3 align="center">A passionate Software Engineer from Ethiopia</h3>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=naotheol&label=Profile%20views&color=0e75b6&style=flat" alt="naotheol" />
+</p>
+
+<p align="center">
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img src="https://github-profile-trophy.vercel.app/?username=naotheol&theme=radical&no-bg=true" alt="naotheol" />
+</a>
+</p>
+
+<p align="center">
+<a href="https://x.com/nahtheol" target="_blank">
+  <img src="https://img.shields.io/badge/X-black.svg?logo=x&logoColor=white&style=for-the-badge" alt="X/ Twitter"/>
+</a>
+<a href="https://stackoverflow.com/users/12345678/nahtheol" target="_blank">
+  <img src="https://img.shields.io/badge/StackOverflow-FE7A16?logo=stack-overflow&style=for-the-badge&logoColor=white" alt="Stack Overflow"/>
+</a>
+<a href="https://linkedin.com/in/olliemer" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&style=for-the-badge&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="https://instagram.com/nahtheol" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&style=for-the-badge&logoColor=white" alt="Instagram"/>
+</a>
+<a href="mailto:naol@creative-codes.sa" target="_blank">
+  <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&style=for-the-badge&logoColor=white" alt="Email"/>
+</a>
+</p>
+
+---
+
+## 💫 About Me
+- 🔭 I’m currently working on **AI-based software for real-world problems**  
+- 🌱 I’m currently learning **TensorFlow, Swift, Ruby**  
+- 👯 I’m looking to collaborate on **AI + Mobile App development**  
+- 🤝 I’m looking for help with **AI model training in underrepresented languages**  
+- 💬 Ask me about **Flutter, Dart, and Mobile App development**  
+- ⚡ Fun fact: **You don't see me in Roblox 😁**
+
+---
+
+## 💻 Tech Stack
+![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Naomer&theme=dark&show_icons=true" alt="Naomer" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Naomer&theme=dark" alt="Naomer" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Naomer&theme=dark&layout=compact" alt="Naomer" />
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Naomer&theme=radical&no-bg=true" alt="Naomer" />
+</p>
+
+---
+
+### ✍️ Random Dev Quote
+<p align="center">
+<img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=radical" alt="dev quote"/>
+</p>
+
+---
+
+### 🔝 Top Contributed Repos
+<p align="center">
+[![Repo 1](https://img.shields.io/github/stars/Naomer/Repo1?style=social)](https://github.com/Naomer/Repo1)
+[![Repo 2](https://img.shields.io/github/stars/Naomer/Repo2?style=social)](https://github.com/Naomer/Repo2)
+[![Repo 3](https://img.shields.io/github/stars/Naomer/Repo3?style=social)](https://github.com/Naomer/Repo3)
+</p>
+
+---
+
+[![Profile Visit](https://visitcount.itsvg.in/api?id=Naomer&icon=0&color=0)](https://visitcount.itsvg.in)
+
+
