@@ -7,15 +7,15 @@
 ---
 
 ### 🌟 About Me
-- 🔭 Currently working on **AI-based Software solving real-world problems**  
-- 🌱 Exploring **TensorFlow, Swift & Ruby**  
-- 👯 Open to collaborate on **AI + Mobile App development**  
+- 🔭 Currently working on **Exciting Flutter projects and AI-based Software solving real-world problems**  
+- 🌱 Exploring **AI + Cloud integrations**  
+- 👯 Open to collaborate on **Open-source & AI + Mobile App development**  
 - 🤝 Looking for help with **training AI models in underrepresented human languages**  
 - 👨‍💻 My projects: [Dropbox Portfolio](https://www.dropbox.com/scl/fo/o17cutb52gcyb0lvpt68o/AHX-BGzC3YmobjAWIBTDsGg?rlkey=it237hqchjfoc7h4id4ixhvfp&st=bg6hjvtu&dl=0)  
 - 📝 I write on: [Elevate Blog](https://elevateco.blogspot.com)  
-- 💬 Ask me about **Flutter, Dart, and Mobile Development**  
+- 💬 Ask me about **Flutter, Dart, Mobile Development, APIs, or UI/UX**  
 - 📫 Reach me: **naol@creative-codes.sa**  
-- ⚡ Fun fact: *You won’t find me in Roblox 😁*  
+- ⚡ Fun fact: *I love mixing space-tech with mobile apps 🚀 and You won’t find me in Roblox 😁*  
 
 ---
 
@@ -44,15 +44,6 @@
 <p align="left">
   <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,tensorflow,pytorch,python,java,kotlin,swift,react,js,ts,html,css,nodejs,php,laravel,mysql,mongodb,postgresql,django,flask,aws,azure,docker,git,linux,figma,postman,unity" />
 </p>
-
-
-
-# 💫 About Me:
-🔭 I’m currently working on exciting Flutter projects <br>  
-👯 I’m looking to collaborate on open-source & mobile dev <br>  
-🌱 I’m currently learning AI + Cloud integrations <br>  
-💬 Ask me about Flutter, APIs, or UI/UX <br>  
-⚡ Fun fact: I love mixing space-tech with mobile apps 🚀  
 
 
 ## 🌐 Socials:
