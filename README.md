@@ -65,6 +65,8 @@
 ![](https://github-readme-stats.vercel.app/api?username=Naomer&theme=transparent&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Naomer&theme=transparent&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Naomer&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![Top Tier Developer](https://img.shields.io/badge/Top_Developer-A+-brightgreen)
+
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
@@ -72,7 +74,4 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Naomer&limit=5&theme=ambient_gradient&combine_all_yearly_contributions=true)
 
-### 🔝 Top Repositories
-[![Repo 1](https://img.shields.io/github/stars/Naomer/Repo1?style=social)](https://github.com/Naomer/Repo1)
-[![Repo 2](https://img.shields.io/github/stars/Naomer/Repo2?style=social)](https://github.com/Naomer/Repo2)
 
