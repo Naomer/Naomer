@@ -1,12 +1,6 @@
 <h1 align="center">Hi 👋, I'm Naomer 
 <h3 align="center">🚀 Passionate Software Engineer from Ethiopia</h3>
-    Welcome to my page! <br/>
-  I'm Thomas, Fullstack developer from 
-  <img src="https://cdn-icons-png.flaticon.com/512/197/197506.png" width="13"/> 
-  <b>Ethiopia</b>, currently living in 
-  <img src="https://cdn-icons-png.flaticon.com/512/197/197564.png" width="13"/> 
-  <b>Stockholm, Sweden</b>.
-</p>
+    
 ![Top Tier Developer](https://img.shields.io/badge/Top_Developer-A+-brightgreen)
 
 <p align="left"> <a href="https://twitter.com/nahtheol" target="blank"><img src="https://img.shields.io/twitter/follow/nahtheol?logo=twitter&style=for-the-badge" alt="nahtheol" /></a> </p>
@@ -62,6 +56,9 @@
 ---
 
 # 📊 GitHub Stats:
+![Profile Grade](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Naomer&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Naomer&layout=compact&theme=radical)
+![Nolan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Naomer&show_icons=true&theme=radical)
 ![GitHub Stats](https://img.shields.io/badge/GitHub_Stats-A%2B-success?style=for-the-badge&logo=github)  
 ![Streak](https://img.shields.io/badge/Commit_Streak-🔥_Perfect-success?style=for-the-badge&logo=firefoxbrowser&logoColor=white)  
 ![Top Repos](https://img.shields.io/badge/Top_Repositories-A%2B-blueviolet?style=for-the-badge&logo=github)
