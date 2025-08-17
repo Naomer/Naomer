@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Naomer 
 <h3 align="center">🚀 Passionate Software Engineer from Ethiopia</h3>
   
+![Top Tier Developer](https://img.shields.io/badge/Top_Developer-A+-brightgreen)
 
 <p align="left"> <a href="https://twitter.com/nahtheol" target="blank"><img src="https://img.shields.io/twitter/follow/nahtheol?logo=twitter&style=for-the-badge" alt="nahtheol" /></a> </p>
 ---
@@ -65,7 +66,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=Naomer&theme=transparent&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Naomer&theme=transparent&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Naomer&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-![Top Tier Developer](https://img.shields.io/badge/Top_Developer-A+-brightgreen)
 
 
 ### ✍️ Random Dev Quote
