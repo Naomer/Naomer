@@ -74,4 +74,44 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Naomer&limit=5&theme=ambient_gradient&combine_all_yearly_contributions=true)
 
+# 💫 About Me:
+🔭 I’m currently working on exciting Flutter projects <br>  
+👯 I’m looking to collaborate on open-source & mobile dev <br>  
+🌱 I’m currently learning AI + Cloud integrations <br>  
+💬 Ask me about Flutter, APIs, or UI/UX <br>  
+⚡ Fun fact: I love mixing space-tech with mobile apps 🚀  
+
+---
+
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/nahtheol) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/olliemer) 
+[![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/nahtheol) 
+[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/your-id) 
+[![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/nahboly) 
+[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/nahtheol) 
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:naol@creative-codes.sa) 
+
+---
+
+# 💻 Tech Stack:
+*(keep your full stack list here, no change)*
+
+---
+
+# 📊 GitHub Stats (Always A+ 😎):
+![GitHub Stats](https://img.shields.io/badge/GitHub_Stats-A%2B-success?style=for-the-badge&logo=github)  
+![Streak](https://img.shields.io/badge/Commit_Streak-🔥_Perfect-success?style=for-the-badge&logo=firefoxbrowser&logoColor=white)  
+![Top Repos](https://img.shields.io/badge/Top_Repositories-A%2B-blueviolet?style=for-the-badge&logo=github)
+
+---
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=vertical&theme=radical)
+
+---
+
+## 💰 Support Me
+[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/nahtheol)  
+[![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/nahtheol)
 
