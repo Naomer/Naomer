@@ -48,6 +48,12 @@
 # 📊 GitHub Stats: 
 ![](https://github-readme-stats.vercel.app/api?username=Naomer&theme=transparent&hide_border=false)<br/> ![](https://nirzak-streak-stats.vercel.app/?user=Naomer&theme=transparent&hide_border=false)<br/> ![Profile Grade](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Naomer&theme=transparent&hide_border=false)<br/> ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Naomer&theme=transparent&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
+# 📊 GitHub Summary:
+![](https://github-readme-stats.vercel.app/api?username=Naomer&theme=transparent&hide_border=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Naomer&theme=transparent&hide_border=false)<br/>
+![Profile Grade](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Naomer&theme=transparent&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Naomer&theme=transparent&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Naomer&limit=5&theme=ambient_gradient&combine_all_yearly_contributions=true)
