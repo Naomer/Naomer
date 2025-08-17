@@ -4,11 +4,12 @@
 ![Top Tier Developer](https://img.shields.io/badge/Top_Developer-A+-brightgreen)
 
 <p align="left"> <a href="https://twitter.com/nahtheol" target="blank"><img src="https://img.shields.io/twitter/follow/nahtheol?logo=twitter&style=for-the-badge" alt="nahtheol" /></a> </p>
+
 ---
 
 ### 🌟 About Me
-- 🔭 Currently working on **Exciting Flutter projects and AI-based Software solving real-world problems**  
-- 🌱 Exploring **AI + Cloud integrations**  
+- 🔭 Currently working on **Exciting Flutter projects & AI-based Software solving real-world problems**  
+- 🌱 Exploring **AI + Cloud integrations & Neural Technologies**  
 - 👯 Open to collaborate on **Open-source & AI + Mobile App development**  
 - 🤝 Looking for help with **training AI models in underrepresented human languages**  
 - 👨‍💻 My projects: [Dropbox Portfolio](https://www.dropbox.com/scl/fo/o17cutb52gcyb0lvpt68o/AHX-BGzC3YmobjAWIBTDsGg?rlkey=it237hqchjfoc7h4id4ixhvfp&st=bg6hjvtu&dl=0)  
@@ -91,4 +92,37 @@
 ---
 
 
+## 🌐 Socials:
+<p align="left">
+  <a href="https://twitter.com/nahtheol" target="_blank">
+    <img src="https://skillicons.dev/icons?i=twitter" width="40" />
+  </a>
+  <a href="https://x.com/nahtheol" target="_blank">
+    <img src="https://skillicons.dev/icons?i=twitter" width="40" />
+  </a>
+  <a href="https://linkedin.com/in/olliemer" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="40" />
+  </a>
+  <a href="https://instagram.com/nahtheol" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" width="40" />
+  </a>
+  <a href="https://reddit.com/user/nahtheol" target="_blank">
+    <img src="https://skillicons.dev/icons?i=reddit" width="40" />
+  </a>
+  <a href="https://stackoverflow.com/users/your-id" target="_blank">
+    <img src="https://skillicons.dev/icons?i=stackoverflow" width="40" />
+  </a>
+  <a href="https://twitch.tv/nahboly" target="_blank">
+    <img src="https://skillicons.dev/icons?i=twitch" width="40" />
+  </a>
+  <a href="mailto:naol@creative-codes.sa" target="_blank">
+    <img src="https://skillicons.dev/icons?i=gmail" width="40" />
+  </a>
+  <a href="https://dev.to/naomer" target="_blank">
+    <img src="https://skillicons.dev/icons?i=devto" width="40" />
+  </a>
+  <a href="https://leetcode.com/nahtheol" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" height="28"/>
+  </a>
+</p>
 
