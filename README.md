@@ -48,7 +48,11 @@
 
 
 # 💫 About Me:
-🔭 I’m currently working on exciting Flutter projects<br>👯 I’m looking to collaborate on open-source & mobile dev<br> 🌱 I’m currently learning AI + Cloud integrations<br>💬 Ask me about Flutter, APIs, or UI/UX<br>⚡ Fun fact: I love mixing space-tech with mobile apps 🚀  
+🔭 I’m currently working on exciting Flutter projects <br>  
+👯 I’m looking to collaborate on open-source & mobile dev <br>  
+🌱 I’m currently learning AI + Cloud integrations <br>  
+💬 Ask me about Flutter, APIs, or UI/UX <br>  
+⚡ Fun fact: I love mixing space-tech with mobile apps 🚀  
 
 
 ## 🌐 Socials:
@@ -74,12 +78,6 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Naomer&limit=5&theme=ambient_gradient&combine_all_yearly_contributions=true)
 
-# 💫 About Me:
-🔭 I’m currently working on exciting Flutter projects <br>  
-👯 I’m looking to collaborate on open-source & mobile dev <br>  
-🌱 I’m currently learning AI + Cloud integrations <br>  
-💬 Ask me about Flutter, APIs, or UI/UX <br>  
-⚡ Fun fact: I love mixing space-tech with mobile apps 🚀  
 
 ---
 
