@@ -48,7 +48,7 @@
 
 
 # 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+🔭 I’m currently working on exciting Flutter projects<br>👯 I’m looking to collaborate on open-source & mobile dev<br> 🌱 I’m currently learning AI + Cloud integrations<br>💬 Ask me about Flutter, APIs, or UI/UX<br>⚡ Fun fact: I love mixing space-tech with mobile apps 🚀  
 
 
 ## 🌐 Socials:
