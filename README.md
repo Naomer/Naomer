@@ -56,11 +56,8 @@
 ---
 
 # 📊 GitHub Stats:
-![Profile Grade](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Naomer&theme=radical)
+![Profile Grade](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Naomer&theme=transparent&hide_border=false)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Naomer&layout=compact&theme=radical)
 ![Nolan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Naomer&show_icons=true&theme=radical)
-![GitHub Stats](https://img.shields.io/badge/GitHub_Stats-A%2B-success?style=for-the-badge&logo=github)  
-![Streak](https://img.shields.io/badge/Commit_Streak-🔥_Perfect-success?style=for-the-badge&logo=firefoxbrowser&logoColor=white)  
-![Top Repos](https://img.shields.io/badge/Top_Repositories-A%2B-blueviolet?style=for-the-badge&logo=github)
 
 ---
