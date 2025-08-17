@@ -15,7 +15,7 @@
 - 👨‍💻 My projects: [Dropbox Portfolio](https://www.dropbox.com/scl/fo/o17cutb52gcyb0lvpt68o/AHX-BGzC3YmobjAWIBTDsGg?rlkey=it237hqchjfoc7h4id4ixhvfp&st=bg6hjvtu&dl=0)  
 - 📝 I write on: [Elevate Blog](https://elevateco.blogspot.com)  
 - 💬 Ask me about **Flutter, Dart, Mobile Development, APIs, or UI/UX**  
-- 📫 Reach me: **naol@creative-codes.sa**  
+- 📫 Hire me: **[Up Work](https://www.upwork.com/freelancers/~01d4d43cb44b3ce6d9?companyReference=1784730888629755905&mp_source=share)**  
 - ⚡ Fun fact: *I love mixing space-tech with mobile apps 🚀 and You won’t find me in Roblox 😁*  
 
 ---
