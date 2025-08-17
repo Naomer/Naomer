@@ -93,36 +93,15 @@
 
 
 ## 🌐 Socials:
-<p align="left">
-  <a href="https://twitter.com/nahtheol" target="_blank">
-    <img src="https://skillicons.dev/icons?i=twitter" width="40" />
-  </a>
-  <a href="https://x.com/nahtheol" target="_blank">
-    <img src="https://skillicons.dev/icons?i=twitter" width="40" />
-  </a>
-  <a href="https://linkedin.com/in/olliemer" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="40" />
-  </a>
-  <a href="https://instagram.com/nahtheol" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram" width="40" />
-  </a>
-  <a href="https://reddit.com/user/nahtheol" target="_blank">
-    <img src="https://skillicons.dev/icons?i=reddit" width="40" />
-  </a>
-  <a href="https://stackoverflow.com/users/your-id" target="_blank">
-    <img src="https://skillicons.dev/icons?i=stackoverflow" width="40" />
-  </a>
-  <a href="https://twitch.tv/nahboly" target="_blank">
-    <img src="https://skillicons.dev/icons?i=twitch" width="40" />
-  </a>
-  <a href="mailto:naol@creative-codes.sa" target="_blank">
-    <img src="https://skillicons.dev/icons?i=gmail" width="40" />
-  </a>
-  <a href="https://dev.to/naomer" target="_blank">
-    <img src="https://skillicons.dev/icons?i=devto" width="40" />
-  </a>
-  <a href="https://leetcode.com/nahtheol" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" height="28"/>
-  </a>
-</p>
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/nahtheol) 
+[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/nahtheol) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/olliemer) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/nahtheol) 
+[![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/nahtheol) 
+[![Stack Overflow](https://img.shields.io/badge/Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/your-id) 
+[![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/nahboly) 
+[![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?logo=dev.to&logoColor=white)](https://dev.to/naomer) 
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/nahtheol) 
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:naol@creative-codes.sa)
+
 
