@@ -15,7 +15,8 @@
 - 👨‍💻 My projects: [Dropbox Portfolio](https://www.dropbox.com/scl/fo/o17cutb52gcyb0lvpt68o/AHX-BGzC3YmobjAWIBTDsGg?rlkey=it237hqchjfoc7h4id4ixhvfp&st=bg6hjvtu&dl=0)  
 - 📝 I write on: [Elevate Blog](https://elevateco.blogspot.com)  
 - 💬 Ask me about **Flutter, Dart, Mobile Development, APIs, or UI/UX**  
-- 📫 Hire me: **[Up Work](https://www.upwork.com/freelancers/~01d4d43cb44b3ce6d9?companyReference=1784730888629755905&mp_source=share)**  
+- 📫 Reach me:**[naol@creative-codes.sa]**
+- 🧑🏻‍💻 Hire me: **[Up Work](https://www.upwork.com/freelancers/~01d4d43cb44b3ce6d9?companyReference=1784730888629755905&mp_source=share)**  
 - ⚡ Fun fact: *I love mixing space-tech with mobile apps 🚀 and You won’t find me in Roblox 😁*  
 
 ---
@@ -47,9 +48,6 @@
 # 📊 GitHub Stats: 
 ![](https://github-readme-stats.vercel.app/api?username=Naomer&theme=transparent&hide_border=false&include_all_commits=false&count_private=true)<br/> ![](https://nirzak-streak-stats.vercel.app/?user=Naomer&theme=transparent&hide_border=false)<br/> ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Naomer&theme=transparent&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Naomer&limit=5&theme=ambient_gradient&combine_all_yearly_contributions=true)
