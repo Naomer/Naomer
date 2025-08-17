@@ -72,11 +72,7 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Naomer&limit=5&theme=ambient_gradient&combine_all_yearly_contributions=true)
 
-### 🔝 Top Contributed Repos
-<p align="center">
+### 🔝 Top Repositories
 [![Repo 1](https://img.shields.io/github/stars/Naomer/Repo1?style=social)](https://github.com/Naomer/Repo1)
 [![Repo 2](https://img.shields.io/github/stars/Naomer/Repo2?style=social)](https://github.com/Naomer/Repo2)
-[![Repo 3](https://img.shields.io/github/stars/Naomer/Repo3?style=social)](https://github.com/Naomer/Repo3)
-</p>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
