@@ -12,7 +12,6 @@
   </a>
 </p>
 
-<h1 align="center">Hi 👋, Welcome!</h1>
 
 <div align="center">
   <a href="https://github.com/Naomer">
