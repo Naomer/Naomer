@@ -66,7 +66,6 @@
 ![](https://github-contributor-stats.vercel.app/api?username=Naomer&limit=5&theme=shadow_green&combine_all_yearly_contributions=true)
 
 ---
-
 [![](https://visitcount.itsvg.in/api?id=Naomer&icon=0&color=13)](https://visitcount.itsvg.in)
 
 ---
