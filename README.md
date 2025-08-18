@@ -1,5 +1,3 @@
-<h1 align="center">Hi 👋, I'm Naomer 
-
 <div align="center">
   <a href="https://github.com/Naomer">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&center=true&vCenter=true&width=850&lines=Hi%2C+I'm+Naomer+%F0%9F%91%8B;Software+Engineer+from+Ethiopia+%F0%9F%87%AA%F0%9F%87%B9;Mobile+%2B+AI+%2B+Cloud;Let's+build+something+awesome!"/>
