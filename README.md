@@ -1,3 +1,36 @@
+<h1 align="center">👋 Welcome to My World</h1>
+
+<!-- Typing Intro -->
+<div align="center">
+  <a href="https://github.com/Naomer">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00FF9C&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Naomer+👨‍💻;Fullstack+Engineer+from+Ethiopia+🇪🇹;AI+%2B+Mobile+%2B+Cloud;Building+Tomorrow's+Tech+Today"/>
+  </a>
+</div>
+
+<!-- Hacker Banner -->
+<div align="center">
+  <img src="https://svg-banners.vercel.app/api?type=shiny&text1=Naomer%20%7C%20AI%20%2B%20Mobile%20Engineer&width=1000&height=120"/>
+</div>
+
+<!-- Matrix Flicker Typing -->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Courier+Prime&weight=600&size=22&duration=4000&pause=800&color=00FF00&background=000000&center=true&vCenter=true&width=800&lines=Naomer+—+Mobile+•+AI+•+Cloud;Exploring+AI+%2B+Cloud+Integrations;Neural+Tech+%26+Innovation;⚡+Always+Learning+•+Always+Building"/>
+</div>
+
+<br/>
+
+<!-- Badge -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Top_Developer-A%2B-brightgreen?style=for-the-badge&logo=github" alt="Top Tier Developer"/>
+</p>
+
+<!-- Social -->
+<p align="center">
+  <a href="https://x.com/nahtheol" target="_blank">
+    <img src="https://img.shields.io/twitter/follow/nahtheol?logo=x&style=for-the-badge&color=black" alt="nahtheol on X"/>
+  </a>
+</p>
+
 <h1 align="center">Hi 👋, Welcome!</h1>
 
 <div align="center">
