@@ -19,9 +19,6 @@
   <img src="https://img.shields.io/badge/Top_Developer-A%2B-brightgreen?style=for-the-badge&logo=github" alt="Top Tier Developer"/>
 </p>
 
-![Top Tier Developer](https://img.shields.io/badge/Top_Developer-A+-brightgreen?style=flat&logo=github&logoColor=white)
-
-
 ---
 
 ### 🌟 About Me
