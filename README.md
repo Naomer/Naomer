@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Naomer 
-<h3 align="center">🚀 Passionate Software Engineer from Ethiopia</h3>
 
 <div align="center">
   <a href="https://github.com/Naomer">
