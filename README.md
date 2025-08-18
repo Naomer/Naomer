@@ -1,22 +1,5 @@
 <h1 align="center">👋 Welcome to My World</h1>
 
-<!-- Typing Intro -->
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00FF9C&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Naomer+👨‍💻;Fullstack+Engineer+from+Ethiopia+🇪🇹;AI+%2B+Mobile+%2B+Cloud;Building+Tomorrow's+Tech+Today"/>
-</div>
-
-<!-- Hacker / Glitch style -->
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=32&duration=4000&pause=1200&color=00FF9C&center=true&vCenter=true&width=1000&lines=Naomer+%7C+AI+%2B+Mobile+Engineer;⚡+Hacker+Style+Banner+⚡"/>
-</div>
-
-<!-- Matrix Flicker Typing -->
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Courier+Prime&weight=600&size=22&duration=4000&pause=800&color=00FF00&background=000000&center=true&vCenter=true&width=800&lines=Naomer+—+Mobile+•+AI+•+Cloud;Exploring+AI+%2B+Cloud+Integrations;Neural+Tech+%26+Innovation;⚡+Always+Learning+•+Always+Building"/>
-</div>
-
-
-
 <!-- Badge -->
 <p align="left">
   <img src="https://img.shields.io/badge/Top_Developer-A%2B-brightgreen?style=for-the-badge&logo=github" alt="Top Tier Developer"/>
