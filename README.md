@@ -12,6 +12,10 @@
 </div>
 
 <p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00FF9C&center=true&vCenter=true&width=600&lines=Naomer+—+AI+•+Mobile+•+Cloud;Exploring+AI+%2B+Cloud+Integrations;Passionate+about+Neural+Technology" alt="Typing SVG" />
+</p>
+
+<p align="center">
   <img src="assets/matrix.gif" alt="matrix rain" width="100%" />
 </p>
 
