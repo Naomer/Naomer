@@ -19,13 +19,6 @@
   <img src="https://img.shields.io/badge/Top_Developer-A%2B-brightgreen?style=for-the-badge&logo=github" alt="Top Tier Developer"/>
 </p>
 
-<!-- Social -->
-<p align="left">
-  <a href="https://x.com/nahtheol" target="_blank">
-    <img src="https://img.shields.io/twitter/follow/nahtheol?logo=x&style=for-the-badge&color=black" alt="nahtheol on X"/>
-  </a>
-</p>
-
 ![Top Tier Developer](https://img.shields.io/badge/Top_Developer-A+-brightgreen?style=flat&logo=github&logoColor=white)
 
 <p align="left"> <a href="https://x.com/nahtheol" target="blank"><img src="https://img.shields.io/twitter/follow/nahtheol?logo=x&style=for-the-badge" alt="nahtheol" /></a> </p>
