@@ -15,6 +15,11 @@
   <img src="https://readme-jokes.vercel.app/api?hideBorder&bgColor=000000&textColor=00FF9C&theme=matrix"/>
 </div>
 
+<div align="center">
+  <img src="https://i.imgur.com/6Z7vRkG.gif" alt="matrix rain" width="100%" />
+  <h1>Naomer — AI • Mobile • Cloud</h1>
+</div>
+
 
     
 ![Top Tier Developer](https://img.shields.io/badge/Top_Developer-A+-brightgreen)
