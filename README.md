@@ -7,9 +7,9 @@
   </a>
 </div>
 
-<!-- Hacker Banner -->
+<!-- Glitch Effect Banner (fixed with typing animation instead of broken API) -->
 <div align="center">
-  <img src="https://svg-banners.vercel.app/api?type=shiny&text1=Naomer%20%7C%20AI%20%2B%20Mobile%20Engineer&width=1000&height=120"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=32&duration=4000&pause=1200&color=FF1177&center=true&vCenter=true&width=1000&lines=Naomer+%7C+AI+%2B+Mobile+Engineer;⚡+Hacker+Style+Banner+⚡"/>
 </div>
 
 <!-- Matrix Flicker Typing -->
@@ -17,15 +17,14 @@
   <img src="https://readme-typing-svg.demolab.com?font=Courier+Prime&weight=600&size=22&duration=4000&pause=800&color=00FF00&background=000000&center=true&vCenter=true&width=800&lines=Naomer+—+Mobile+•+AI+•+Cloud;Exploring+AI+%2B+Cloud+Integrations;Neural+Tech+%26+Innovation;⚡+Always+Learning+•+Always+Building"/>
 </div>
 
-<br/>
 
 <!-- Badge -->
-<p align="center">
+<p align="left">
   <img src="https://img.shields.io/badge/Top_Developer-A%2B-brightgreen?style=for-the-badge&logo=github" alt="Top Tier Developer"/>
 </p>
 
 <!-- Social -->
-<p align="center">
+<p align="left">
   <a href="https://x.com/nahtheol" target="_blank">
     <img src="https://img.shields.io/twitter/follow/nahtheol?logo=x&style=for-the-badge&color=black" alt="nahtheol on X"/>
   </a>
