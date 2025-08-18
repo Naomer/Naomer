@@ -7,7 +7,7 @@
 </div>
 
 <div align="center">
-  <img src="https://svg-banners.vercel.app/api?type=rainbow&text1=Naomer%20%7C%20AI%20%2B%20Mobile%20&width=1000&height=120"/>
+  <img src="https://svg-banners.vercel.app/api?type=rainbow&text1=Welcome%20%7C%20TO%20%2B%20My GitHub%20Profile&width=1000&height=120"/>
 </div>
 
 <div align="center">
