@@ -7,11 +7,7 @@
 </div>
 
 <div align="center">
-  <img src="https://svg-banners.vercel.app/api?type=rainbow&text1=Naomer%20%7C%20AI%20%2B%20Mobile%20Engineer&width=1000&height=120"/>
-</div>
-
-<div align="center">
-  <img src="https://svg-banners.vercel.app/api?type=wave&text1=Naomer%20%7C%20Exploring%20AI%20%26%20Cloud&width=1000&height=120"/>
+  <img src="https://svg-banners.vercel.app/api?type=rainbow&text1=Naomer%20%7C%20AI%20%2B%20Mobile%20&width=1000&height=120"/>
 </div>
 
 <div align="center">
