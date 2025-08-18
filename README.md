@@ -26,7 +26,8 @@
   </a>
 </p>
 
-![Top Tier Developer](https://img.shields.io/badge/Top_Developer-A+-brightgreen)
+![Top Tier Developer](https://img.shields.io/badge/Top_Developer-A+-brightgreen?style=flat&logo=github&logoColor=white)
+
 
 <p align="left"> <a href="https://twitter.com/nahtheol" target="blank"><img src="https://img.shields.io/twitter/follow/nahtheol?logo=twitter&style=for-the-badge" alt="nahtheol" /></a> </p>
 
