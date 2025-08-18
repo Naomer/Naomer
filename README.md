@@ -16,9 +16,9 @@
 </div>
 
 <div align="center">
-  <img src="https://i.imgur.com/6Z7vRkG.gif" alt="matrix rain" width="100%" />
-  <h1>Naomer — AI • Mobile • Cloud</h1>
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=FF5733&center=true&vCenter=true&lines=Naomer+—+AI+•+Mobile+•+Cloud;Exploring+Neural+Tech+%26+Cloud;Building+with+Flutter+%26+AI" />
 </div>
+
 
 
     
