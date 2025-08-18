@@ -6,10 +6,6 @@
   </a>
 </div>
 
-<div align="center">
-  <img src="https://svg-banners.vercel.app/api?type=glitch&text1=Naomer%20%7C%20AI%20%2B%20Mobile%20Engineer&width=1000&height=120"/>
-</div>
-
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=4000&color=00FF9C&center=true&vCenter=true&lines=Naomer+—+Mobile+•+AI+•+Cloud;Exploring+AI+%2B+Cloud+Integrations;Neural+Technology+%26+Innovation" />
 </h1>
