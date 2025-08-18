@@ -11,18 +11,9 @@
   <img src="https://svg-banners.vercel.app/api?type=glitch&text1=Naomer%20%7C%20AI%20%2B%20Mobile%20Engineer&width=1000&height=120"/>
 </div>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00FF9C&center=true&vCenter=true&width=600&lines=Naomer+—+AI+•+Mobile+•+Cloud;Exploring+AI+%2B+Cloud+Integrations;Passionate+about+Neural+Technology" alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <img src="assets/matrix.gif" alt="matrix rain" width="100%" />
-</p>
-
-<h1 align="center">Naomer — AI • Mobile • Cloud</h1>
-<h3 align="center">Exploring AI + Cloud Integrations & Neural Technology</h3>
-
-
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=300&duration=4000&color=00FF9C&center=true&vCenter=true&lines=Naomer+—+AI+•+Mobile+•+Cloud;Exploring+AI+%2B+Cloud+Integrations;Neural+Technology+%26+Innovation" />
+</h1>
 
     
 ![Top Tier Developer](https://img.shields.io/badge/Top_Developer-A+-brightgreen)
