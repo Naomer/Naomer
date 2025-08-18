@@ -1,18 +1,5 @@
 <h1 align="center">👋 Welcome to My World</h1>
 
-<!-- Badge -->
-<p align="left">
-  <img src="https://img.shields.io/badge/Top_Developer-A%2B-brightgreen?style=for-the-badge&logo=github" alt="Top Tier Developer"/>
-</p>
-
-<!-- Social -->
-<p align="left">
-  <a href="https://x.com/nahtheol" target="_blank">
-    <img src="https://img.shields.io/twitter/follow/nahtheol?logo=x&style=for-the-badge&color=black" alt="nahtheol on X"/>
-  </a>
-</p>
-
-
 <div align="center">
   <a href="https://github.com/Naomer">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&center=true&vCenter=true&width=850&lines=Hi%2C+I'm+Naomer+%F0%9F%91%8B;Software+Engineer+from+Ethiopia+%F0%9F%87%AA%F0%9F%87%B9;Mobile+%2B+AI+%2B+Cloud;Let's+build+something+awesome!"/>
@@ -27,7 +14,17 @@
   <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=4000&color=00FF9C&center=true&vCenter=true&lines=Naomer+—+Mobile+•+AI+•+Cloud;Exploring+AI+%2B+Cloud+Integrations;Neural+Technology+%26+Innovation" />
 </h1>
 
-    
+<!-- Badge -->
+<p align="left">
+  <img src="https://img.shields.io/badge/Top_Developer-A%2B-brightgreen?style=for-the-badge&logo=github" alt="Top Tier Developer"/>
+</p>
+
+<!-- Social -->
+<p align="left">
+  <a href="https://x.com/nahtheol" target="_blank">
+    <img src="https://img.shields.io/twitter/follow/nahtheol?logo=x&style=for-the-badge&color=black" alt="nahtheol on X"/>
+  </a>
+</p>
 ![Top Tier Developer](https://img.shields.io/badge/Top_Developer-A+-brightgreen)
 
 <p align="left"> <a href="https://twitter.com/nahtheol" target="blank"><img src="https://img.shields.io/twitter/follow/nahtheol?logo=twitter&style=for-the-badge" alt="nahtheol" /></a> </p>
