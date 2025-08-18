@@ -12,7 +12,7 @@
 </div>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=300&duration=4000&color=00FF9C&center=true&vCenter=true&lines=Naomer+—+AI+•+Mobile+•+Cloud;Exploring+AI+%2B+Cloud+Integrations;Neural+Technology+%26+Innovation" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=15&duration=4000&color=00FF9C&center=true&vCenter=true&lines=Naomer+—+AI+•+Mobile+•+Cloud;Exploring+AI+%2B+Cloud+Integrations;Neural+Technology+%26+Innovation" />
 </h1>
 
     
