@@ -11,6 +11,10 @@
   <img src="https://svg-banners.vercel.app/api?type=glitch&text1=Naomer%20%7C%20AI%20%2B%20Mobile%20Engineer&width=1000&height=120"/>
 </div>
 
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3500&pause=800&color=00FF9C&center=true&vCenter=true&width=1100&height=60&lines=Naomer+—+AI+•+Mobile+•+Cloud;Exploring+AI+%2B+Cloud+Integrations;Neural+Technology+%26+Innovation" />
+</h1>
+
 
     
 ![Top Tier Developer](https://img.shields.io/badge/Top_Developer-A+-brightgreen)
