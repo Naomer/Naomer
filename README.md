@@ -7,10 +7,6 @@
 </div>
 
 <div align="center">
-  <img src="https://svg-banners.vercel.app/api?type=rainbow&text1=Welcome%20%7C%20TO%20%2B%20My_GitHub%20Profile&width=1000&height=120"/>
-</div>
-
-<div align="center">
   <img src="https://svg-banners.vercel.app/api?type=glitch&text1=Naomer%20%7C%20AI%20%2B%20Mobile%20Engineer&width=1000&height=120"/>
 </div>
 
