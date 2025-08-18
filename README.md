@@ -12,10 +12,6 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-jokes.vercel.app/api?hideBorder&bgColor=000000&textColor=00FF9C&theme=matrix"/>
-</div>
-
-<div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=FF5733&center=true&vCenter=true&lines=Naomer+—+AI+•+Mobile+•+Cloud;Exploring+Neural+Tech+%26+Cloud;Building+with+Flutter+%26+AI" />
 </div>
 
