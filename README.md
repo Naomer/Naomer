@@ -1,5 +1,22 @@
 <h1 align="center">Hi 👋, I'm Naomer 
 <h3 align="center">🚀 Passionate Software Engineer from Ethiopia</h3>
+
+<div align="center">
+  <a href="https://github.com/Naomer">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&center=true&vCenter=true&width=850&lines=Hi%2C+I'm+Naomer+%F0%9F%91%8B;Software+Engineer+from+Ethiopia+%F0%9F%87%AA%F0%9F%87%B9;AI+%2B+Mobile+%2B+Cloud;Let's+build+something+awesome!"/>
+  </a>
+</div>
+<div align="center">
+  <img src="https://svg-banners.vercel.app/api?type=glitch&text1=Naomer%20%7C%20AI%20%2B%20Mobile%20Engineer&width=1000&height=120"/>
+</div>
+<div align="center">
+  <img src="https://readme-jokes.vercel.app/api?hideBorder&bgColor=000000&textColor=00FF9C&theme=matrix"/>
+</div>
+<div align="center">
+  <img src="https://i.imgur.com/6Z7vRkG.gif" alt="matrix rain" width="100%" />
+  <h1>Naomer — AI • Mobile • Cloud</h1>
+</div>
+
     
 ![Top Tier Developer](https://img.shields.io/badge/Top_Developer-A+-brightgreen)
 
