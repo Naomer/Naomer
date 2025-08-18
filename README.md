@@ -12,19 +12,6 @@
 </div>
 
 
-<div align="center">
-  <img src="https://i.imgur.com/6Z7vRkG.gif" alt="matrix rain" width="100%" />
-</div>
-
-<h1 align="center">
-  🌱 Naomer — AI • Mobile • Cloud  
-</h1>
-
-<h3 align="center">
-  Exploring AI + Cloud Integrations & Neural Technology
-</h3>
-
-
     
 ![Top Tier Developer](https://img.shields.io/badge/Top_Developer-A+-brightgreen)
 
