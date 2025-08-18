@@ -2,14 +2,12 @@
 
 <!-- Typing Intro -->
 <div align="center">
-  <a href="https://github.com/Naomer">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00FF9C&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Naomer+👨‍💻;Fullstack+Engineer+from+Ethiopia+🇪🇹;AI+%2B+Mobile+%2B+Cloud;Building+Tomorrow's+Tech+Today"/>
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00FF9C&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Naomer+👨‍💻;Fullstack+Engineer+from+Ethiopia+🇪🇹;AI+%2B+Mobile+%2B+Cloud;Building+Tomorrow's+Tech+Today"/>
 </div>
 
-<!-- Glitch Effect Banner (fixed with typing animation instead of broken API) -->
+<!-- Hacker / Glitch style -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=32&duration=4000&pause=1200&color=FF1177&center=true&vCenter=true&width=1000&lines=Naomer+%7C+AI+%2B+Mobile+Engineer;⚡+Hacker+Style+Banner+⚡"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=32&duration=4000&pause=1200&color=00FF9C&center=true&vCenter=true&width=1000&lines=Naomer+%7C+AI+%2B+Mobile+Engineer;⚡+Hacker+Style+Banner+⚡"/>
 </div>
 
 <!-- Matrix Flicker Typing -->
@@ -18,9 +16,10 @@
 </div>
 
 
+
 <!-- Badge -->
 <p align="left">
-  <img src="https://img.shields.io/badge/Top_Developer-A%2B-brightyellow?style=for-the-badge&logo=github" alt="Top Tier Developer"/>
+  <img src="https://img.shields.io/badge/Top_Developer-A%2B-brightgreen?style=for-the-badge&logo=github" alt="Top Tier Developer"/>
 </p>
 
 <!-- Social -->
