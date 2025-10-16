@@ -60,7 +60,4 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Naomer&theme=shadow_green&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Naomer&limit=5&theme=shadow_green&combine_all_yearly_contributions=true)
-
 ---
